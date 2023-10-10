@@ -20,6 +20,11 @@ This repository is organized into different sections, each dedicated to showcasi
 - **Guitar Projects:** Features my guitar-related projects, compositions, and recordings 🎸🎶🎵
 
 Feel free to explore each section to learn more about my work and interests. If you have any questions or would like to collaborate, please don't hesitate to reach out to me.
+## Resume
+
+You can find my resume [here](https://github.com/PreritJain7/PreritJain7/blob/main/PRERIT%20RESUME(October%202023).pdf
+).
+
 
 ## Contact Me 📬
 
